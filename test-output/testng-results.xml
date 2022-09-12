@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-09-12T14:03:39 IST" name="Default suite" finished-at="2022-09-12T14:03:40 IST" duration-ms="81">
+  <suite started-at="2022-09-12T14:22:49 IST" name="Default suite" finished-at="2022-09-12T14:22:49 IST" duration-ms="74">
     <groups>
     </groups>
-    <test started-at="2022-09-12T14:03:39 IST" name="Default test" finished-at="2022-09-12T14:03:40 IST" duration-ms="81">
-      <class name="demo.Practice">
-        <test-method signature="test()[pri:0, instance:demo.Practice@7219ec67]" started-at="2022-09-12T14:03:39 IST" name="test" finished-at="2022-09-12T14:03:40 IST" duration-ms="21" status="PASS">
+    <test started-at="2022-09-12T14:22:49 IST" name="Default test" finished-at="2022-09-12T14:22:49 IST" duration-ms="74">
+      <class name="demo.Practice22">
+        <test-method signature="demo()[pri:0, instance:demo.Practice22@7219ec67]" started-at="2022-09-12T14:22:49 IST" name="demo" finished-at="2022-09-12T14:22:49 IST" duration-ms="19" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test -->
-      </class> <!-- demo.Practice -->
+        </test-method> <!-- demo -->
+      </class> <!-- demo.Practice22 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
